@@ -10,14 +10,14 @@ const Hero = () => {
       <div className="absolute bottom-20 right-10 w-96 h-96 bg-portfolio-orange/10 rounded-full filter blur-3xl opacity-30" />
       
       <div className="container mx-auto text-center relative z-10">
-        <p className="text-portfolio-orange mb-3 animate-fade-in inline-block border border-portfolio-orange/20 px-3 py-1 rounded-full text-sm backdrop-blur-sm">
+        {/* <p className="text-portfolio-orange mb-3 animate-fade-in inline-block border border-portfolio-orange/20 px-3 py-1 rounded-full text-sm backdrop-blur-sm">
           Software Developer
-        </p>
+        </p> */}
         <h1 className="text-4xl md:text-6xl font-bold text-white mb-4 animate-slide-down tracking-tight">
           Kaustubh <span className="text-portfolio-orange">Desale</span>
         </h1>
         <p className="text-gray-300 max-w-2xl mx-auto mb-8 animate-slide-up text-balance leading-relaxed text-lg">
-          A passionate software developer with expertise in full-stack development, building efficient and robust applications using modern technologies.
+        Aspiring software developer passionate about full-stack development, skilled in modern web technologies. Dedicated to building efficient, user-friendly applications with a focus on performance and scalability
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-fade-in">
