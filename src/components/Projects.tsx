@@ -30,8 +30,8 @@ const Projects = () => {
       title: "BookNest - Online Bookstore",
       description: "Developed and deployed BookNest, a book e-commerce platform using ASP.NET MVC for efficient book management and transactions.",
       skills: ["ASP.NET MVC", "Entity Framework", "SQL Server", "Authentication", "Razor views"],
-      github: "https://github.com/kaustubh5716/BookNest",
-      demo: "https://github.com/kaustubh5716/BookNest",
+      github: "https://github.com/kaustubh5716/Bookly",
+      demo: "https://bookly-atddhmeahmhnecgm.centralindia-01.azurewebsites.net/",
       showDemo: true
     },
     {

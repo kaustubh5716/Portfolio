@@ -12,7 +12,6 @@ const Footer = () => {
             <h3 className="text-2xl font-bold">
               <span className="text-portfolio-orange">K</span>austubh
             </h3>
-            <p className="text-gray-400 mt-1">Software Developer</p>
           </div>
           
           <div className="flex space-x-6">
